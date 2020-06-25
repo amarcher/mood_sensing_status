@@ -1,0 +1,19 @@
+{
+  "name": "mood_sensing_status",
+  "version": "1.0.0",
+  "description": "set a status based on the sentiment of your slack message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amarcher/mood_sensing_status.git"
+  },
+  "author": "Andrew Archer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amarcher/mood_sensing_status/issues"
+  },
+  "homepage": "https://github.com/amarcher/mood_sensing_status#readme"
+}
